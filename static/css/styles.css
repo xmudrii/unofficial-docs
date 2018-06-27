@@ -867,7 +867,7 @@ html.search #docsContent h1 { margin-bottom: 0; border-bottom: 0; padding-bottom
   #talkToUs h4 br { display: block; }
   #talkToUs #bigSocial div { width: calc(25% - 18px); }
   #talkToUs #bigSocial div + div { margin-left: 20px; }
-  footer { width: 100%; background-image: url(../images/texture.png); background-color: #303030; }
+  footer { width: 100%; background-image: url(../images/texture.png); background-color: #303030; float: left; }
   footer main { padding: 20px 0; }
   footer nav { overflow: hidden; margin-bottom: 20px; }
   footer nav a { width: 16.65%; float: left; font-size: 24px; font-weight: 300; white-space: nowrap; }

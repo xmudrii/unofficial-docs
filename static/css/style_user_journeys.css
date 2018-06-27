@@ -142,8 +142,7 @@ width:80%;
 }
 
 .browsesection {
-  /* @munnerz: Disabled to fix rendering on homepage */
-  /*float:left;*/
+  float:left;
   display:block;
   width:100%;
   margin:2%;
